@@ -51,7 +51,6 @@
 #### This is a H4
 ##### This is a H5
 ###### This is a H6
-####### This is a 7.
 
 ## BlockQuote
 이메일에서 사용하는 ```>``` 블럭인용문자를 이용한다.
